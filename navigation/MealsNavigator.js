@@ -50,7 +50,7 @@ const tabScreenConfig = {
     }
   },
   Favorites: {
-    screen:FavoritesScreen,
+    screen:FavNavigatior,
     navigationOptions: {
       tabBarLabel: 'Favorites!',
       tabBarIcon: (tabInfo) => {

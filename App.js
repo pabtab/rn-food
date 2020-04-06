@@ -8,7 +8,7 @@ import MealsNavigator from './navigation/MealsNavigator';
 const fethFonts = () => {
   return Font.loadAsync({
     'open-sans': require('./assets/fonts/OpenSans-Regular.ttf'),
-    'open-sans-bol': require('./assets/fonts/OpenSans-Bold.ttf')
+    'open-sans-bold': require('./assets/fonts/OpenSans-Bold.ttf')
   })
 }
 
